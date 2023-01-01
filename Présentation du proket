@@ -1,0 +1,9 @@
+# OpenClassRooms-projet-2
+Projet 2 formation Data Scientist : Analysez des données de systèmes éducatifs
+
+Le but de ce projet est d'étudier, à travers une base de données le système éducatif de nombreux pays.
+
+Notre rôle sera de travailler sur un fichier ayant de nombreuses valeurs manquantes, d'en déduire des variables cohérentes.
+Ensuite, nous allons sélectionner des filtres et procéder à une sélection de plusieurs pays.
+
+Pour ce projet, nous avons choisi d'utiliser des filtres mais aussi un scoring.
